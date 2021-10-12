@@ -1,26 +1,28 @@
+
+body {
+    text-align: center;
+}
+
 div {
-	height: 16vh;
+	height: 40vh;
 }
 
+h2 {
+    color: black;
+    font-size: 100px
+}
 .first {
-	background: red
+	background-color: blue;
 }
-.second { 
-	background: orange
+.half {
+	height: 5vh;
 }
-.third{ 
-	background: yellow
+.fourth {
+	background-color: white;
 }
-.fourth{ 
-	background: green
+.second  {
+	background-color: black;
 }
-.fifth{ 
-	background: blue
-}
-.sixth{ 
-	background: purple
-}
-h2{
-font-size: px
-
+.third {
+	background-color: blue;
 }
