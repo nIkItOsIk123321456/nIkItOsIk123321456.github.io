@@ -1,28 +1,27 @@
-
-body {
-    text-align: center;
-}
-
-div {
-	height: 40vh;
-}
-
-h2 {
-    color: black;
-    font-size: 100px
-}
-.first {
-	background-color: blue;
-}
-.half {
-	height: 5vh;
-}
-.fourth {
+.container {
 	background-color: white;
+	height: 100vh;
+	display: flex;
+	align-items: stretch;
 }
-.second  {
-	background-color: black;
-}
-.third {
+
+/*.square {
+	width: 200px;
+	height: 200px;
+} */
+
+.color_1 {
 	background-color: blue;
+	flex-grow: 1;
 }
+
+.color_2 {
+	background-color:white;
+	flex-grow:1;
+}
+
+.color_3 {
+	background-color:red;
+	flex-grow: 1;
+}
+/*https://css-tricks.com/snippets/css/a-guide-to-flexbox/*/
