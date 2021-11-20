@@ -1,4 +1,63 @@
-.my {
+body {
+	background-color: silver; 
+}
+li.my {
+	font-size: 25px;
+	color: black;
+}
+h1 {
 	display: flex;
-	align-items:center;
+	justify-content: center;
+	color: black;
+	border: 1px solid red;
+	background-color: orange;
+	padding: 10px 10px 10px;
+}
+h2.my1 {
+	display: flex;
+	justify-content: center;
+	color: black;
+	border: 1px solid red;
+	background-color: orange;
+	padding: 10px 10px 10px;
+}
+h2.my2 {
+	display: flex;
+	justify-content: center;
+	color: black;
+	border: 1px solid red;
+	background-color: orange;
+	padding: 10px 10px 10px;
+}
+h2.my3 {
+	display: flex;
+	justify-content: center;
+	color: black;
+	border: 1px solid red;
+	background-color: orange;
+	padding: 10px 10px 9px;
+}
+h2.my4 {
+	display: flex;
+	justify-content: center;
+	color: black;
+	border: 1px solid red;
+	background-color: orange;
+	padding: 10px 10px 9px;
+}
+h2.my5 {
+	display: flex;
+	justify-content: center;
+	color: black;
+	border: 1px solid red;
+	background-color: orange;
+	padding: 10px 10px 9px;
+}
+h2.my6 {
+	display: flex;
+	justify-content: center;
+	color: black;
+	border: 1px solid red;
+	background-color: orange;
+	padding: 10px 10px 9px;
 }
